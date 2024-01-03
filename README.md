@@ -1,8 +1,5 @@
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="public/img/login-photos/LogoMedia2.png" alt="Logo" width="80" height="80">
-  </a>
-
+    <img src="public/img/login-photos/LogoMedia2.png" alt="Logo" width="100" height="80">
   <h3 align="center">Expenses app for "La Media Naranja"</h3>
 
   <p align="center">
